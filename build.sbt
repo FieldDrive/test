@@ -4,7 +4,7 @@ version := "1.0.0"
 
 resolvers := Seq("FieldDrive Repo" at "https://develop.fielddrive.io/artifactory/repo")
 
-scalaVersion := "2.11.8"
+scalaVersion := "2.11.6"
 
 scalacOptions ++= Seq(
   "-feature",
